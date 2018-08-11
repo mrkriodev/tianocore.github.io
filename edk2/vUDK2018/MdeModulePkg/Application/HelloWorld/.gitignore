@@ -6,8 +6,3 @@ MyEfiUsb.c
 MyEfiUsb.h
 MyUsbWebCamUtils.c
 MyUsbWebCamUtils.h
-/HelloWorld.c
-/HelloWorld.inf
-/HelloWorld.uni
-/HelloWorldExtra.uni
-/HelloWorldStr.uni
